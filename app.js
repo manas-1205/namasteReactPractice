@@ -6,4 +6,3 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 // react.createElement always returns an obj
 const heading = React.createElement("h1",{},"react ke andar se");
 root.render(heading)
-
