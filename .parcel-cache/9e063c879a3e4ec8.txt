@@ -2,7 +2,7 @@
 40D:\namasteReactprac\node_modules\yallist133511986046257246 1
 89D:\namasteReactprac\node_modules\react-dom\cjs\react-dom-server.browser.production.min.js121436361000000000 0
 64D:\namasteReactprac\node_modules\caniuse-lite\data\regions\BI.js121436361000000000 0
-32D:\namasteReactprac\package.json133511987447641891 0
+32D:\namasteReactprac\package.json133512414592422862 0
 57D:\namasteReactprac\node_modules\escalade\sync\index.d.ts121436361000000000 0
 75D:\namasteReactprac\node_modules\htmlnano\docs\versioned_docs\version-2.0.0133511985897565260 1
 37D:\namasteReactprac\node_modules\csso133511986055850709 1
@@ -20,7 +20,7 @@
 55D:\namasteReactprac\node_modules\css-tree\lib\generator133511985900970310 1
 93D:\namasteReactprac\node_modules\@parcel\core\test\fixtures\main-format-mismatch\package.json121436361000000000 0
 71D:\namasteReactprac\node_modules\css-tree\lib\definition-syntax\walk.js121436361000000000 0
-30D:\namasteReactprac\.gitignore133511967068286761 0
+30D:\namasteReactprac\.gitignore133511999425157424 0
 51D:\namasteReactprac\node_modules\utility-types\dist133511985878230847 1
 39D:\namasteReactprac\node_modules\@lezer133511985990858152 1
 48D:\namasteReactprac\node_modules\posthtml-render133511986059158020 1
