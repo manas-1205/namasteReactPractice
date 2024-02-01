@@ -17,7 +17,7 @@ const a = (<h1>heading exists here
 
 const HTMLHeadingElement = () => {
   return (
-    <h1>we are inside a funtional component</h1>    
+    <h1>we are inside {console.log("functional component ran")} a funtional component</h1>    
   )
 }
 
