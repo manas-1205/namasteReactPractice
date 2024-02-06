@@ -22,5 +22,3 @@ const HTMLHeadingElement = () => {
 }
 
 root.render(<HTMLHeadingElement/>)
-
-// practice more and more
